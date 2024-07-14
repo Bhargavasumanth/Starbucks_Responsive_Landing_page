@@ -1,1 +1,1 @@
-# Starbucks Clone(Responsive Landing page)
+# Starbucks Clone (Responsive Landing page)
