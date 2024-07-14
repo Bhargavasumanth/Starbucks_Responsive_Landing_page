@@ -1,1 +1,1 @@
-# Starbucks_Responsive_Landing_page
+# Starbucks Clone (Responsive Landing page)
