@@ -15,13 +15,13 @@ This project is a responsive recreation of the Starbucks website landing page us
 - Provide a learning resource for others interested in front-end development
 
 ##  Description 
-#### Responsive Design 
+### Responsive Design 
 - Our landing page adapts seamlessly to various screen sizes, ensuring accessibility for all users, whether on desktop, tablet, or mobile.
-#### Stunning Visuals
+### Stunning Visuals
 - We've incorporated eye-catching visuals that capture the essence of Starbucks' brand, creating an inviting and visually appealing atmosphere.
-#### User-Friendly Navigation 
+### User-Friendly Navigation 
 - The navigation menu is intuitive and user-friendly, allowing visitors to explore different sections of the page effortlessly.
-#### Interactive Elements
+### Interactive Elements
 - Engage with our interactive elements that provide an immersive experience, such as hovering effects and clickable features.
-#### Interactive Elements  
+### Interactive Elements  
 - Engage with our interactive elements that provide an immersive experience, such as hovering effects and clickable features.
